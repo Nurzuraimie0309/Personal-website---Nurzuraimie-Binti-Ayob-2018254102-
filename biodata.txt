@@ -1,0 +1,74 @@
+<html>
+<head> 
+<title>biodata</title>
+</head>
+<div style="background-image: url('image/tulip4.jpg');">
+<br>
+<body>
+<p align="center"><font face="Arial black" size="15" color="purple">THE WORLD OF AIMIE....</font>
+<img src="image/butterfly.png" width="200" height="200" align="left"
+<br>
+<img src="image/butterfly.png" width="200" height="200" align="right"
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="index.html"><img src="image/emmy5.jpg" width="300" height="350" border="2" align="center"></a>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Name: Nurzuraimie Binti Ayob</font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Age: 20 years</font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Address: Kg Gial Tengah, 02500 Mata Ayer, Kangar, Perlis</font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Birth Date: 03/09/2000 </font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Birth Place: Hospital Tuanku Fauziah, Kangar, Perlis</font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Siblings: 6 </font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Father Name:Ayob Bin Ismail </font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Mother Name: Siti Roziah Binti Ibrahim</font>
+<br>
+<p align="left"><font face="Algerian" size="8" color="black"> Ambition: Teacher</font>
+<br>
+<br>
+<a href="index.html"><img src="image/emmy.jpeg" width="250" height="350" border="2" align="left"></a>
+<br>
+<a href="index.html"><img src="image/emmy2.jpg" width="250" height="350" border="2" align="left"></a>
+<br>
+<a href="index.html"><img src="image/emmy3.jpg" width="250" height="350" border="2" align="left"></a>
+<br>
+<a href="index.html"><img src="image/emmy4.jpg" width="250" height="350" border="2" align="left"></a>
+<br>
+<a href="index.html"><img src="image/emmy.jpeg" width="250" height="350" border="2" align="left"></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center"><font face="Algerian" size="15" color="Blue">#Never Give up and Step forward</font>
+<br>
+<br>
+<font face="Arial Black" size="4" color="black" align="right"> This website is develop for IMD311
+<br>
+(Introduction to Web Content Mangement and Design).
+<br>
+Any information or material are used for educational purpose only.</font>
+</body>
+</html>
